@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="National Geographic Maps TOPO! 4.x"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+    <metadata>
+        <bounds minlat="47.4741666316986" minlon="-116.9533333778381" maxlat="48.9750000238419" maxlon="-115.8972222805023"/>
+    </metadata>
+    <wpt lat="47.4741666316986" lon="-115.9236111640930">
+        <ele>844.600</ele>
+        <time>2017-05-09T16:47:41Z</time>
+        <name>10Dxyz0</name>
+    </wpt>
+    <wpt lat="47.5369443893433" lon="-115.8994444608688">
+        <ele>1100.030</ele>
+        <time>2017-05-09T16:48:20Z</time>
+        <name>10Dxyz2</name>
+    </wpt>
+    <wpt lat="47.5358333587646" lon="-115.9116666316986">
+        <ele>1294.790</ele>
+        <time>2017-05-09T16:48:49Z</time>
+        <name>10Dxyz3</name>
+    </wpt>
+    <wpt lat="47.5505555868149" lon="-115.9466667175293">
+        <ele>1346.610</ele>
+        <time>2017-05-09T16:49:56Z</time>
+        <name>10Dxyz6</name>
+    </wpt>
+    <wpt lat="47.5797221660614" lon="-116.0091667175293">
+        <ele>1325.580</ele>
+        <time>2017-05-09T16:50:48Z</time>
+        <name>10Dxyz8</name>
+    </wpt>
+    <wpt lat="47.6572222709656" lon="-116.0561110973358">
+        <ele>707.440</ele>
+        <time>2017-05-09T16:53:07Z</time>
+        <name>10Dxyz15</name>
+    </wpt>
+    <wpt lat="47.6486110687256" lon="-116.0297222137451">
+        <ele>715.980</ele>
+        <time>2017-05-09T16:53:21Z</time>
+        <name>10Dxyz16</name>
+    </wpt>
+    <wpt lat="47.7194443941116" lon="-116.0452778339386">
+        <ele>1170.130</ele>
+        <time>2017-05-09T16:54:05Z</time>
+        <name>10Dxyz18</name>
+    </wpt>
+    <wpt lat="47.7197222709656" lon="-116.0641666650772">
+        <ele>1260.660</ele>
+        <time>2017-05-09T16:54:20Z</time>
+        <name>10Dxyz19</name>
+    </wpt>
+    <wpt lat="47.7411111593246" lon="-116.0652778148651">
+        <ele>1288.700</ele>
+        <time>2017-05-09T16:54:36Z</time>
+        <name>10Dxyz20</name>
+    </wpt>
+    <wpt lat="47.7380555868149" lon="-116.1269444227219">
+        <ele>1554.790</ele>
+        <time>2017-05-09T16:56:11Z</time>
+        <name>10Dxyz21</name>
+    </wpt>
+    <wpt lat="47.7755556106567" lon="-116.1763888597488">
+        <ele>1395.990</ele>
+        <time>2017-05-09T16:56:48Z</time>
+        <name>10Dxyz22</name>
+    </wpt>
+    <wpt lat="47.7877777814865" lon="-116.2083333730698">
+        <ele>1507.540</ele>
+        <time>2017-05-09T16:57:03Z</time>
+        <name>10Dxyz23</name>
+    </wpt>
+    <wpt lat="47.8450000286102" lon="-116.1952778100967">
+        <ele>1502.360</ele>
+        <time>2017-05-09T16:58:20Z</time>
+        <name>10Dxyz26</name>
+    </wpt>
+    <wpt lat="47.8486111164093" lon="-116.3136111497879">
+        <ele>957.680</ele>
+        <time>2017-05-09T16:59:14Z</time>
+        <name>10Dxyz29</name>
+    </wpt>
+    <wpt lat="47.8141666650772" lon="-116.3888888359070">
+        <ele>1164.340</ele>
+        <time>2017-05-09T16:59:43Z</time>
+        <name>10Dxyz30</name>
+    </wpt>
+    <wpt lat="47.8611111640930" lon="-116.4349999427795">
+        <ele>1373.130</ele>
+        <time>2017-05-09T17:00:57Z</time>
+        <name>10Dxyz34</name>
+    </wpt>
+    <wpt lat="47.8963888883591" lon="-116.4400000572205">
+        <ele>1426.470</ele>
+        <time>2017-05-09T17:01:24Z</time>
+        <name>10Dxyz35</name>
+    </wpt>
+    <wpt lat="47.8427777290344" lon="-116.2533333301544">
+        <ele>906.170</ele>
+        <time>2017-05-09T17:01:55Z</time>
+        <name>10C0</name>
+    </wpt>
+    <wpt lat="47.9005556106567" lon="-116.3361110687256">
+        <ele>980.540</ele>
+        <time>2017-05-09T17:04:11Z</time>
+        <name>10C5</name>
+    </wpt>
+    <wpt lat="47.8986110687256" lon="-116.4155555963516">
+        <ele>1447.190</ele>
+        <time>2017-05-09T17:05:28Z</time>
+        <name>10C8</name>
+    </wpt>
+    <wpt lat="47.8949999809265" lon="-116.4380555152893">
+        <ele>1435.310</ele>
+        <time>2017-05-09T17:05:35Z</time>
+        <name>10C9</name>
+    </wpt>
+    <wpt lat="47.9044444561005" lon="-116.4622222185135">
+        <ele>1271.320</ele>
+        <time>2017-05-09T17:05:53Z</time>
+        <name>10Dxyz36</name>
+    </wpt>
+    <wpt lat="47.9047222137451" lon="-116.5152777433395">
+        <ele>1284.120</ele>
+        <time>2017-05-09T17:06:18Z</time>
+        <name>10Dxyz37</name>
+    </wpt>
+    <wpt lat="47.9213888645172" lon="-116.5386110544205">
+        <ele>1305.160</ele>
+        <time>2017-05-09T17:06:38Z</time>
+        <name>10Dxyz38</name>
+    </wpt>
+    <wpt lat="47.9255555868149" lon="-116.6136111021042">
+        <ele>775.410</ele>
+        <time>2017-05-09T17:07:46Z</time>
+        <name>10Dxyz41</name>
+    </wpt>
+    <wpt lat="47.9477777481079" lon="-116.7002778053284">
+        <ele>733.050</ele>
+        <time>2017-05-09T17:09:07Z</time>
+        <name>10Dxyz44</name>
+    </wpt>
+    <wpt lat="47.9488888978958" lon="-116.7419444322586">
+        <ele>762.000</ele>
+        <time>2017-05-09T17:09:20Z</time>
+        <name>10Dxyz45</name>
+    </wpt>
+    <wpt lat="48.0197222232819" lon="-116.8083332777023">
+        <ele>679.400</ele>
+        <time>2017-05-09T17:09:53Z</time>
+        <name>10Dxyz47</name>
+    </wpt>
+    <wpt lat="48.0249999761581" lon="-116.8730555772781">
+        <ele>704.090</ele>
+        <time>2017-05-09T17:10:08Z</time>
+        <name>10Dxyz48</name>
+    </wpt>
+    <wpt lat="48.0138888359070" lon="-116.8980555534363">
+        <ele>701.040</ele>
+        <time>2017-05-09T17:10:18Z</time>
+        <name>10Dxyz49</name>
+    </wpt>
+    <wpt lat="48.0144444704056" lon="-116.9152777194977">
+        <ele>700.130</ele>
+        <time>2017-05-09T17:10:30Z</time>
+        <name>10Dxyz50</name>
+    </wpt>
+    <wpt lat="48.0661110877991" lon="-116.9291666746140">
+        <ele>1352.710</ele>
+        <time>2017-05-09T17:11:21Z</time>
+        <name>10Dxyz53</name>
+    </wpt>
+    <wpt lat="48.1486110687256" lon="-116.8955554962158">
+        <ele>968.960</ele>
+        <time>2017-05-09T17:12:31Z</time>
+        <name>10Dxyz56</name>
+    </wpt>
+    <wpt lat="48.1375000476837" lon="-116.8486111164093">
+        <ele>643.130</ele>
+        <time>2017-05-09T17:12:44Z</time>
+        <name>10Dxyz57</name>
+    </wpt>
+    <wpt lat="48.1805555820465" lon="-116.9080555438995">
+        <ele>636.730</ele>
+        <time>2017-05-09T17:13:10Z</time>
+        <name>10Dxyz59</name>
+    </wpt>
+    <wpt lat="48.1808333396912" lon="-116.8919444084168">
+        <ele>629.110</ele>
+        <time>2017-05-09T17:13:22Z</time>
+        <name>10Dxyz60</name>
+    </wpt>
+    <wpt lat="48.2144443988800" lon="-116.8683333396912">
+        <ele>727.860</ele>
+        <time>2017-05-09T17:13:43Z</time>
+        <name>10Dxyz62</name>
+    </wpt>
+    <wpt lat="48.2819443941116" lon="-116.8455555438995">
+        <ele>698.910</ele>
+        <time>2017-05-09T17:14:25Z</time>
+        <name>10Dxyz64</name>
+    </wpt>
+    <wpt lat="48.3213888406754" lon="-116.8422222137451">
+        <ele>736.090</ele>
+        <time>2017-05-09T17:14:42Z</time>
+        <name>10Dxyz65</name>
+    </wpt>
+    <wpt lat="48.3633333444595" lon="-116.8397222757340">
+        <ele>694.950</ele>
+        <time>2017-05-09T17:15:22Z</time>
+        <name>10Dxyz67</name>
+    </wpt>
+    <wpt lat="48.4694443941116" lon="-116.7986111640930">
+        <ele>997.000</ele>
+        <time>2017-05-09T17:16:38Z</time>
+        <name>10Dxyz70</name>
+    </wpt>
+    <wpt lat="48.4908332824707" lon="-116.7519444227219">
+        <ele>1919.940</ele>
+        <time>2017-05-09T17:17:25Z</time>
+        <name>10Dxyz73</name>
+    </wpt>
+    <wpt lat="48.4299999475479" lon="-116.8361110687256">
+        <ele>789.130</ele>
+        <time>2017-05-09T17:28:44Z</time>
+        <name>10Db0</name>
+    </wpt>
+    <wpt lat="48.5175000429153" lon="-116.8174999952316">
+        <ele>771.150</ele>
+        <time>2017-05-09T17:29:22Z</time>
+        <name>10Db2</name>
+    </wpt>
+    <wpt lat="48.7469444274902" lon="-116.8386111259460">
+        <ele>766.270</ele>
+        <time>2017-05-09T17:30:10Z</time>
+        <name>10Db4</name>
+    </wpt>
+    <wpt lat="48.8597222566605" lon="-116.8866666555405">
+        <ele>1250.600</ele>
+        <time>2017-05-09T17:30:58Z</time>
+        <name>10Db7</name>
+    </wpt>
+    <wpt lat="48.9750000238419" lon="-116.9313888549805">
+        <ele>1292.960</ele>
+        <time>2017-05-09T17:31:46Z</time>
+        <name>10Db9</name>
+    </wpt>
+    <wpt lat="47.5147222280502" lon="-115.8972222805023">
+        <ele>972.920</ele>
+        <time>2017-05-09T16:48:04Z</time>
+        <name>10Dxyz1</name>
+    </wpt>
+    <wpt lat="47.5308333635330" lon="-115.9444444179535">
+        <ele>1316.740</ele>
+        <time>2017-05-09T16:49:03Z</time>
+        <name>10Dxyz4</name>
+    </wpt>
+    <wpt lat="47.5416666269302" lon="-115.9474999904633">
+        <ele>1234.440</ele>
+        <time>2017-05-09T16:49:18Z</time>
+        <name>10Dxyz5</name>
+    </wpt>
+    <wpt lat="47.5644444227219" lon="-115.9608333110809">
+        <ele>1255.780</ele>
+        <time>2017-05-09T16:50:18Z</time>
+        <name>10Dxyz7</name>
+    </wpt>
+    <wpt lat="47.5888888835907" lon="-116.0311111211777">
+        <ele>1316.740</ele>
+        <time>2017-05-09T16:51:08Z</time>
+        <name>10Dxyz9</name>
+    </wpt>
+    <wpt lat="47.5997222661972" lon="-116.0452778339386">
+        <ele>1425.550</ele>
+        <time>2017-05-09T16:51:45Z</time>
+        <name>10Dxyz10</name>
+    </wpt>
+    <wpt lat="47.6697221994400" lon="-116.0375000238419">
+        <ele>720.240</ele>
+        <time>2017-05-09T16:53:35Z</time>
+        <name>10Dxyz17</name>
+    </wpt>
+    <wpt lat="47.8102778196335" lon="-116.2094444036484">
+        <ele>1541.070</ele>
+        <time>2017-05-09T16:57:44Z</time>
+        <name>10Dxyz24</name>
+    </wpt>
+    <wpt lat="47.8288888931274" lon="-116.1900000572205">
+        <ele>1509.370</ele>
+        <time>2017-05-09T16:58:05Z</time>
+        <name>10Dxyz25</name>
+    </wpt>
+    <wpt lat="47.8394443988800" lon="-116.2566666603088">
+        <ele>925.680</ele>
+        <time>2017-05-09T16:58:36Z</time>
+        <name>10Dxyz27</name>
+    </wpt>
+    <wpt lat="47.8422222137451" lon="-116.2558333873749">
+        <ele>914.710</ele>
+        <time>2017-05-09T16:58:50Z</time>
+        <name>10Dxyz28</name>
+    </wpt>
+    <wpt lat="47.8099999427795" lon="-116.3788888454437">
+        <ele>1261.260</ele>
+        <time>2017-05-09T16:59:58Z</time>
+        <name>10Dxyz31</name>
+    </wpt>
+    <wpt lat="47.8169444799423" lon="-116.4238889217377">
+        <ele>1419.150</ele>
+        <time>2017-05-09T17:00:20Z</time>
+        <name>10Dxyz32</name>
+    </wpt>
+    <wpt lat="47.8491666316986" lon="-116.4149999618530">
+        <ele>1431.650</ele>
+        <time>2017-05-09T17:00:42Z</time>
+        <name>10Dxyz33</name>
+    </wpt>
+    <wpt lat="47.8791667222977" lon="-116.2083333730698">
+        <ele>902.820</ele>
+        <time>2017-05-09T17:02:34Z</time>
+        <name>10C1</name>
+    </wpt>
+    <wpt lat="47.8872221708298" lon="-116.2224999666214">
+        <ele>898.860</ele>
+        <time>2017-05-09T17:03:23Z</time>
+        <name>10C2</name>
+    </wpt>
+    <wpt lat="47.9047222137451" lon="-116.2358332872391">
+        <ele>921.410</ele>
+        <time>2017-05-09T17:03:37Z</time>
+        <name>10C3</name>
+    </wpt>
+    <wpt lat="47.9247221946716" lon="-116.2763888835907">
+        <ele>938.790</ele>
+        <time>2017-05-09T17:03:51Z</time>
+        <name>10C4</name>
+    </wpt>
+    <wpt lat="47.8925000429153" lon="-116.3561111688614">
+        <ele>1090.270</ele>
+        <time>2017-05-09T17:04:27Z</time>
+        <name>10C6</name>
+    </wpt>
+    <wpt lat="47.8975000381470" lon="-116.3672221899033">
+        <ele>1242.370</ele>
+        <time>2017-05-09T17:05:15Z</time>
+        <name>10C7</name>
+    </wpt>
+    <wpt lat="47.9111111164093" lon="-116.5830554962158">
+        <ele>825.400</ele>
+        <time>2017-05-09T17:06:58Z</time>
+        <name>10Dxyz39</name>
+    </wpt>
+    <wpt lat="47.9186111688614" lon="-116.6124999523163">
+        <ele>796.750</ele>
+        <time>2017-05-09T17:07:10Z</time>
+        <name>10Dxyz40</name>
+    </wpt>
+    <wpt lat="47.9474999904633" lon="-116.6347222328186">
+        <ele>754.380</ele>
+        <time>2017-05-09T17:08:56Z</time>
+        <name>10Dxyz43</name>
+    </wpt>
+    <wpt lat="47.9266666173935" lon="-116.6338888406754">
+        <ele>754.080</ele>
+        <time>2017-05-09T17:08:05Z</time>
+        <name>10Dxyz42</name>
+    </wpt>
+    <wpt lat="47.9716666936874" lon="-116.7433333396912">
+        <ele>759.560</ele>
+        <time>2017-05-09T17:09:30Z</time>
+        <name>10Dxyz46</name>
+    </wpt>
+    <wpt lat="48.0216666460037" lon="-116.9305555820465">
+        <ele>753.770</ele>
+        <time>2017-05-09T17:10:53Z</time>
+        <name>10Dxyz51</name>
+    </wpt>
+    <wpt lat="48.0283333063126" lon="-116.9091666936874">
+        <ele>985.120</ele>
+        <time>2017-05-09T17:11:04Z</time>
+        <name>10Dxyz52</name>
+    </wpt>
+    <wpt lat="48.0788888931274" lon="-116.9533333778381">
+        <ele>1547.780</ele>
+        <time>2017-05-09T17:11:33Z</time>
+        <name>10Dxyz54</name>
+    </wpt>
+    <wpt lat="48.0794444084167" lon="-116.9372222423554">
+        <ele>1417.320</ele>
+        <time>2017-05-09T17:11:54Z</time>
+        <name>10Dxyz55</name>
+    </wpt>
+    <wpt lat="48.1747221946716" lon="-116.9091666936874">
+        <ele>633.680</ele>
+        <time>2017-05-09T17:12:58Z</time>
+        <name>10Dxyz58</name>
+    </wpt>
+    <wpt lat="48.1877777576447" lon="-116.8930555582047">
+        <ele>639.170</ele>
+        <time>2017-05-09T17:13:32Z</time>
+        <name>10Dxyz61</name>
+    </wpt>
+    <wpt lat="48.3250000476837" lon="-116.8552777767181">
+        <ele>707.440</ele>
+        <time>2017-05-09T17:14:51Z</time>
+        <name>10Dxyz66</name>
+    </wpt>
+    <wpt lat="48.4291666746140" lon="-116.8344444036484">
+        <ele>787.910</ele>
+        <time>2017-05-09T17:16:07Z</time>
+        <name>10Dxyz68</name>
+    </wpt>
+    <wpt lat="48.4497221708298" lon="-116.8133333921433">
+        <ele>808.030</ele>
+        <time>2017-05-09T17:16:24Z</time>
+        <name>10Dxyz69</name>
+    </wpt>
+    <wpt lat="48.4713889360428" lon="-116.7847222089768">
+        <ele>1174.090</ele>
+        <time>2017-05-09T17:16:56Z</time>
+        <name>10Dxyz71</name>
+    </wpt>
+    <wpt lat="48.4855555295944" lon="-116.7733333110809">
+        <ele>1377.700</ele>
+        <time>2017-05-09T17:17:12Z</time>
+        <name>10Dxyz72</name>
+    </wpt>
+    <wpt lat="48.2333333492279" lon="-116.8586111068726">
+        <ele>733.050</ele>
+        <time>2017-05-09T17:14:09Z</time>
+        <name>10Dxyz63</name>
+    </wpt>
+    <wpt lat="48.4758332967758" lon="-116.8463889360428">
+        <ele>766.880</ele>
+        <time>2017-05-09T17:29:05Z</time>
+        <name>10Db1</name>
+    </wpt>
+    <wpt lat="48.6788889169693" lon="-116.8241666555405">
+        <ele>768.400</ele>
+        <time>2017-05-09T17:29:55Z</time>
+        <name>10Db3</name>
+    </wpt>
+    <wpt lat="48.8022222518921" lon="-116.8183333873749">
+        <ele>864.410</ele>
+        <time>2017-05-09T17:30:23Z</time>
+        <name>10Db5</name>
+    </wpt>
+    <wpt lat="48.8363889455795" lon="-116.8230555057526">
+        <ele>1090.270</ele>
+        <time>2017-05-09T17:30:36Z</time>
+        <name>10Db6</name>
+    </wpt>
+    <wpt lat="48.8424999713898" lon="-116.9530555009842">
+        <ele>801.020</ele>
+        <time>2017-05-09T17:31:16Z</time>
+        <name>10Db8</name>
+    </wpt>
+    <wpt lat="47.5983333587646" lon="-116.0536111593247">
+        <ele>1414.880</ele>
+        <time>2017-05-09T16:51:54Z</time>
+        <name>10Dxyz11</name>
+    </wpt>
+    <wpt lat="47.5974999666214" lon="-116.0602778196335">
+        <ele>1411.530</ele>
+        <time>2017-05-09T16:52:19Z</time>
+        <name>10Dxyz12</name>
+    </wpt>
+    <wpt lat="47.6266666650772" lon="-116.0880556106567">
+        <ele>810.770</ele>
+        <time>2017-05-09T16:52:43Z</time>
+        <name>10Dxyz13</name>
+    </wpt>
+    <wpt lat="47.6196026802063" lon="-116.0559506416321">
+        <ele>1379.220</ele>
+        <time>2019-03-13T20:23:53Z</time>
+        <name>10Da1</name>
+    </wpt>
+    <wpt lat="47.5999057292938" lon="-116.0530834197998">
+        <ele>1436.220</ele>
+        <time>2019-03-13T20:23:53Z</time>
+        <name>10Da0</name>
+    </wpt>
+    <wpt lat="47.6322615146637" lon="-116.0389499664307">
+        <ele>1354.530</ele>
+        <time>2019-03-13T20:23:53Z</time>
+        <name>10Da2</name>
+    </wpt>
+    <wpt lat="47.6524472236633" lon="-116.0375003814697">
+        <ele>896.420</ele>
+        <time>2019-03-13T20:23:53Z</time>
+        <name>10Da3</name>
+    </wpt>
+    <wpt lat="47.6559662818909" lon="-116.0539531707764">
+        <ele>730.610</ele>
+        <time>2019-03-13T20:23:53Z</time>
+        <name>10Da4</name>
+    </wpt>
+    <wpt lat="47.6527404785156" lon="-116.0877890586853">
+        <ele>704.090</ele>
+        <time>2019-03-12T22:30:44Z</time>
+        <name>10Dxyz14</name>
+    </wpt>
+    <wpt lat="47.9173052310944" lon="-116.5360236167908">
+        <ele>1277.110</ele>
+        <time>2019-03-13T20:46:17Z</time>
+        <name>10Dxy0</name>
+    </wpt>
+    <wpt lat="47.9085564613342" lon="-116.5537667274475">
+        <ele>1074.420</ele>
+        <time>2019-03-13T20:46:38Z</time>
+        <name>10Dxy1</name>
+    </wpt>
+    <wpt lat="47.9090940952301" lon="-116.5793633460999">
+        <ele>845.820</ele>
+        <time>2019-03-13T20:46:58Z</time>
+        <name>10Dxy2</name>
+    </wpt>
+    <wpt lat="47.9197221994400" lon="-116.5438889265060">
+        <ele>1125.020</ele>
+        <time>2019-03-13T20:47:33Z</time>
+        <name>10Dz1</name>
+    </wpt>
+    <wpt lat="47.9216666221619" lon="-116.5569444894791">
+        <ele>1056.740</ele>
+        <time>2019-03-13T20:47:45Z</time>
+        <name>10Dz2</name>
+    </wpt>
+    <wpt lat="47.9304528236389" lon="-116.5441679954529">
+        <ele>1242.370</ele>
+        <time>2019-03-13T20:47:12Z</time>
+        <name>10Dz0</name>
+    </wpt>
+    <wpt lat="47.9163765907288" lon="-116.5789270401001">
+        <ele>882.090</ele>
+        <time>2019-03-13T20:47:55Z</time>
+        <name>10Dz3</name>
+    </wpt>
+</gpx>
