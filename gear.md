@@ -3,6 +3,8 @@
 ## TODO
 
 - capacitor?
+- salt stick tablets
+- snacks/bars/etc
 
 ## personal
 

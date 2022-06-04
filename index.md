@@ -5,6 +5,8 @@
 - https://trails.idaho.gov
 - [Gaia GPS paper map creation](https://blog.gaiagps.com/customize-paper-maps-with-gaia-gps/)
 - vendors to support: Kates Real Food, Upshift, Klim, Giant Loop, Trail Tech
+- make a [depth finder](https://d2w9rnfcy7mm78.cloudfront.net/4288681/original_b767dd967eec3f0fcc952cf621abc749.jpg?1558040%0A)
+- read about [contour lines](https://blog.gaiagps.com/how-to-read-topographic-maps/)
 
 ## general
 
@@ -39,6 +41,7 @@ this might be a good spot to leave a truck on way there at start of the trip.
 - [OHV sticker](https://idpr.idaho.gov/Renewal/Default.aspx)
 - [garmin 24k maps](https://buy.garmin.com/en-US/US/p/27613/pn/010-C1130-00)
 - Klim baselayers
+- [packable shoes](https://www.nike.com/t/free-rn-flyknit-2018-mens-running-shoe-RRT9elMk/942838-101)
 - [Klim Arsenal Vest](https://www.klim.com/Arsenal-Vest-4054-001)
 - helmet light: [Oxbow](https://www.oxbowgear.com/product/voyager-dirt-bike-helmet-light/) or [Task](https://taskracing.com/product-category/helmet-lights/)
 - ?? [phone pouch](https://www.oxbowgear.com/product/smartphone-backpack-shoulder-strap-pouch/)
@@ -46,6 +49,21 @@ this might be a good spot to leave a truck on way there at start of the trip.
 - [MRS](https://bestrestproducts.com/shop/recovery-gear-mrs-system/motorcycle-recovery-system-mrs/) or [pully system](https://nifty-lift.com/)
 - [roadside geology book](https://www.amazon.com/Roadside-Geology-Idaho/dp/0878422196)
 - [rain pants](https://www.amazon.com/dp/B009G1UMA2/ref=twister_B009MIK21I?th=1&psc=1)
+
+### [R2P gear](https://www.klim.com/story/Lyndon-poskitt-motorcycle-adventure-gear-layering&49)
+
+KLIM gear chosen for Team Races to Places in the Africa Eco Race and my
+personal Adventure rides for 2020:
+
+- Base Layer – KLIM Aggressor 1.0 shirt and pants
+- Mid Layer – KLIM Inferno
+- Primary Shell – KLIM Dakar Jacket and Pants.
+- Outer Shell – KLIM Stowaway
+- KLIM Socks
+- KLIM Dakar Pro Gloves
+- KLIM Mojave Gloves
+- KLIM Balaclava Windstopper
+- KLIM Inversion Gloves
 
 ### FE501
 

@@ -1,0 +1,958 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="National Geographic Maps TOPO! 4.x"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+    <metadata>
+        <bounds minlat="42.4208333492279" minlon="-113.3163888454437" maxlat="43.6366666555405" maxlon="-112.2826665639877"/>
+    </metadata>
+    <wpt lat="42.7688888311386" lon="-112.4400000572205">
+        <ele>1763.880</ele>
+        <time>2017-04-10T22:15:42Z</time>
+        <name>2Dxyz3</name>
+    </wpt>
+    <wpt lat="42.7913888692856" lon="-112.4286111593247">
+        <ele>1611.480</ele>
+        <time>2017-04-10T22:01:19Z</time>
+        <name>2Dxyz2</name>
+    </wpt>
+    <wpt lat="42.7727777957916" lon="-112.4369444847107">
+        <ele>1835.200</ele>
+        <time>2017-04-10T22:19:13Z</time>
+        <name>2Dxyz5</name>
+    </wpt>
+    <wpt lat="42.7716666460037" lon="-112.4344444274902">
+        <ele>1852.270</ele>
+        <time>2017-04-10T22:19:22Z</time>
+        <name>2Dxyz6</name>
+    </wpt>
+    <wpt lat="42.7713888883591" lon="-112.4363888502121">
+        <ele>1823.010</ele>
+        <time>2017-04-10T22:19:05Z</time>
+        <name>2Dxyz4</name>
+    </wpt>
+    <wpt lat="42.7336111068726" lon="-112.4075000286102">
+        <ele>1557.530</ele>
+        <time>2017-04-10T22:46:34Z</time>
+        <name>2Dxyz8</name>
+    </wpt>
+    <wpt lat="42.7466666698456" lon="-112.4286111593247">
+        <ele>1866.900</ele>
+        <time>2017-04-10T22:19:42Z</time>
+        <name>2Dxyz7</name>
+    </wpt>
+    <wpt lat="42.7377778291702" lon="-112.3849999904633">
+        <ele>1570.640</ele>
+        <time>2017-04-11T17:46:04Z</time>
+        <name>2Dxyz10</name>
+    </wpt>
+    <wpt lat="42.7211110591888" lon="-112.3630555868149">
+        <ele>1854.710</ele>
+        <time>2017-04-11T17:46:47Z</time>
+        <name>2Dxyz12</name>
+    </wpt>
+    <wpt lat="42.7066667079926" lon="-112.3622221946716">
+        <ele>1784.000</ele>
+        <time>2017-04-11T17:47:07Z</time>
+        <name>2Dxyz13</name>
+    </wpt>
+    <wpt lat="42.7358332872391" lon="-112.3616666793823">
+        <ele>1709.630</ele>
+        <time>2017-04-11T17:46:33Z</time>
+        <name>2Dxyz11</name>
+    </wpt>
+    <wpt lat="42.6916667222977" lon="-112.3400000333786">
+        <ele>2359.160</ele>
+        <time>2017-04-11T17:47:47Z</time>
+        <name>2Dxyz15</name>
+    </wpt>
+    <wpt lat="42.6633332967758" lon="-112.3377777338028">
+        <ele>2452.120</ele>
+        <time>2017-04-11T17:48:01Z</time>
+        <name>2Dxyz16</name>
+    </wpt>
+    <wpt lat="42.6986111402512" lon="-112.3444443941116">
+        <ele>2117.750</ele>
+        <time>2017-04-11T17:47:21Z</time>
+        <name>2Dxyz14</name>
+    </wpt>
+    <wpt lat="42.6777777671814" lon="-112.3455555438995">
+        <ele>2637.130</ele>
+        <time>2017-04-11T19:49:08Z</time>
+        <name>2Dxyz17</name>
+    </wpt>
+    <wpt lat="42.6622222661972" lon="-112.3572221994400">
+        <ele>2232.050</ele>
+        <time>2017-04-11T19:49:41Z</time>
+        <name>2Dxyz19</name>
+    </wpt>
+    <wpt lat="42.6208332777023" lon="-112.3980555534363">
+        <ele>1841.910</ele>
+        <time>2017-04-11T19:54:02Z</time>
+        <name>2Dxyz24</name>
+    </wpt>
+    <wpt lat="42.5866667032242" lon="-112.5063889026642">
+        <ele>1598.070</ele>
+        <time>2017-04-11T19:55:35Z</time>
+        <name>2Dxyz28</name>
+    </wpt>
+    <wpt lat="42.6752778291702" lon="-112.3627778291702">
+        <ele>2163.170</ele>
+        <time>2017-04-11T19:49:52Z</time>
+        <name>2Dxyz20</name>
+    </wpt>
+    <wpt lat="42.6811110973358" lon="-112.3819444179535">
+        <ele>1982.420</ele>
+        <time>2017-04-11T19:50:20Z</time>
+        <name>2Dxyz21</name>
+    </wpt>
+    <wpt lat="42.6808333396912" lon="-112.4116666316986">
+        <ele>1797.100</ele>
+        <time>2017-04-11T19:50:38Z</time>
+        <name>2Dxyz22</name>
+    </wpt>
+    <wpt lat="42.6477777957916" lon="-112.4061111211777">
+        <ele>1890.980</ele>
+        <time>2017-04-11T19:50:56Z</time>
+        <name>2Dxyz23</name>
+    </wpt>
+    <wpt lat="42.5869444608688" lon="-112.4261111021042">
+        <ele>1712.980</ele>
+        <time>2017-04-11T19:54:31Z</time>
+        <name>2Dxyz25</name>
+    </wpt>
+    <wpt lat="42.6063889265060" lon="-112.4650000333786">
+        <ele>1630.990</ele>
+        <time>2017-04-11T19:54:58Z</time>
+        <name>2Dxyz26</name>
+    </wpt>
+    <wpt lat="42.5863889455795" lon="-112.4980555772781">
+        <ele>1615.140</ele>
+        <time>2017-04-11T19:56:00Z</time>
+        <name>2Dxyz29</name>
+    </wpt>
+    <wpt lat="42.6122221946716" lon="-112.4980555772781">
+        <ele>1600.510</ele>
+        <time>2017-04-11T19:55:20Z</time>
+        <name>2Dxyz27</name>
+    </wpt>
+    <wpt lat="42.5505555868149" lon="-112.4980555772781">
+        <ele>1651.410</ele>
+        <time>2017-04-11T19:57:53Z</time>
+        <name>2Dxyz30</name>
+    </wpt>
+    <wpt lat="42.5399999618530" lon="-112.6247222423554">
+        <ele>1695.610</ele>
+        <time>2017-04-11T20:29:35Z</time>
+        <name>2Dxyz32</name>
+    </wpt>
+    <wpt lat="42.5405555963516" lon="-112.6808333396912">
+        <ele>2064.410</ele>
+        <time>2017-04-11T20:30:07Z</time>
+        <name>2Dxyz33</name>
+    </wpt>
+    <wpt lat="42.5361111164093" lon="-112.6958333253861">
+        <ele>2239.370</ele>
+        <time>2017-04-11T20:30:32Z</time>
+        <name>2Dxyz34</name>
+    </wpt>
+    <wpt lat="42.5099999904633" lon="-112.7327778339386">
+        <ele>1874.220</ele>
+        <time>2017-04-11T20:32:19Z</time>
+        <name>2Dxyz43</name>
+    </wpt>
+    <wpt lat="42.4947222471237" lon="-112.7502777576447">
+        <ele>1771.500</ele>
+        <time>2017-04-11T20:33:09Z</time>
+        <name>2Dxyz46</name>
+    </wpt>
+    <wpt lat="42.5016666650772" lon="-112.8400000333786">
+        <ele>1475.840</ele>
+        <time>2017-04-11T20:33:53Z</time>
+        <name>2Dxyz49</name>
+    </wpt>
+    <wpt lat="42.5019444227219" lon="-112.8961111307144">
+        <ele>1611.180</ele>
+        <time>2017-04-11T20:34:11Z</time>
+        <name>2Dxyz50</name>
+    </wpt>
+    <wpt lat="42.4911111593246" lon="-112.8977777957916">
+        <ele>1676.400</ele>
+        <time>2017-04-11T20:34:23Z</time>
+        <name>2Dxyz51</name>
+    </wpt>
+    <wpt lat="42.4908332824707" lon="-112.9116666316986">
+        <ele>1602.640</ele>
+        <time>2017-04-11T20:34:38Z</time>
+        <name>2Dxyz52</name>
+    </wpt>
+    <wpt lat="42.4608333110809" lon="-112.9727777242661">
+        <ele>1880.920</ele>
+        <time>2017-04-11T20:34:55Z</time>
+        <name>2Dxyz53</name>
+    </wpt>
+    <wpt lat="42.4299999475479" lon="-113.0000000000000">
+        <ele>1875.740</ele>
+        <time>2017-04-11T20:35:56Z</time>
+        <name>2Dxyz56</name>
+    </wpt>
+    <wpt lat="42.5044444799423" lon="-113.0041667222977">
+        <ele>1677.010</ele>
+        <time>2017-04-11T20:37:02Z</time>
+        <name>2Dxyz59</name>
+    </wpt>
+    <wpt lat="42.5138888359070" lon="-113.0199999809265">
+        <ele>1772.720</ele>
+        <time>2017-04-11T20:38:04Z</time>
+        <name>2Dxyz61</name>
+    </wpt>
+    <wpt lat="42.5211111307144" lon="-113.0402777194977">
+        <ele>1965.960</ele>
+        <time>2017-04-11T20:39:27Z</time>
+        <name>2Dxyz64</name>
+    </wpt>
+    <wpt lat="42.5466666221619" lon="-113.0377777814865">
+        <ele>1655.680</ele>
+        <time>2017-04-11T20:39:52Z</time>
+        <name>2Dxyz65</name>
+    </wpt>
+    <wpt lat="42.6152777671814" lon="-113.0561110973358">
+        <ele>1362.460</ele>
+        <time>2017-04-11T20:40:07Z</time>
+        <name>2Dxyz66</name>
+    </wpt>
+    <wpt lat="42.6341667175293" lon="-113.0602778196335">
+        <ele>1293.270</ele>
+        <time>2017-04-11T20:40:21Z</time>
+        <name>2Dxyz67</name>
+    </wpt>
+    <wpt lat="42.6611111164093" lon="-112.9286111593247">
+        <ele>1406.960</ele>
+        <time>2017-04-11T20:41:25Z</time>
+        <name>2Dxyz69</name>
+    </wpt>
+    <wpt lat="42.7505555152893" lon="-112.8805555105209">
+        <ele>1345.690</ele>
+        <time>2017-04-11T20:42:02Z</time>
+        <name>2Dxyz71</name>
+    </wpt>
+    <wpt lat="42.7727777957916" lon="-112.8591666221619">
+        <ele>1350.880</ele>
+        <time>2017-04-11T20:42:18Z</time>
+        <name>2Dxyz72</name>
+    </wpt>
+    <wpt lat="42.7791666984558" lon="-112.8586111068726">
+        <ele>1339.290</ele>
+        <time>2017-04-11T20:43:02Z</time>
+        <name>2Dxyz73</name>
+    </wpt>
+    <wpt lat="42.7844444513321" lon="-112.8547222614288">
+        <ele>1342.950</ele>
+        <time>2017-04-11T20:43:13Z</time>
+        <name>2Dxyz74</name>
+    </wpt>
+    <wpt lat="42.7858333587646" lon="-112.8547222614288">
+        <ele>1342.950</ele>
+        <time>2017-04-11T20:43:25Z</time>
+        <name>2Dxyz75</name>
+    </wpt>
+    <wpt lat="42.7788889408112" lon="-112.8836110830307">
+        <ele>1340.820</ele>
+        <time>2017-04-11T20:43:55Z</time>
+        <name>2Dxyz77</name>
+    </wpt>
+    <wpt lat="42.7705554962158" lon="-112.8863888978958">
+        <ele>1338.070</ele>
+        <time>2017-04-11T20:44:22Z</time>
+        <name>2Dxyz79</name>
+    </wpt>
+    <wpt lat="42.7644444704056" lon="-112.9055556058884">
+        <ele>1338.990</ele>
+        <time>2017-04-11T20:44:41Z</time>
+        <name>2Dxyz80</name>
+    </wpt>
+    <wpt lat="42.7552777528763" lon="-112.9052777290344">
+        <ele>1338.070</ele>
+        <time>2017-04-11T20:45:04Z</time>
+        <name>2Dxyz81</name>
+    </wpt>
+    <wpt lat="42.7549999952316" lon="-112.9147222042084">
+        <ele>1338.070</ele>
+        <time>2017-04-11T20:45:11Z</time>
+        <name>2Dxyz82</name>
+    </wpt>
+    <wpt lat="42.7511111497879" lon="-112.9149999618530">
+        <ele>1335.940</ele>
+        <time>2017-04-11T20:45:24Z</time>
+        <name>2Dxyz83</name>
+    </wpt>
+    <wpt lat="42.7333333492279" lon="-112.9386111497879">
+        <ele>1336.860</ele>
+        <time>2017-04-11T20:45:36Z</time>
+        <name>2Dxyz84</name>
+    </wpt>
+    <wpt lat="42.5333333015442" lon="-112.7024999856949">
+        <ele>2280.820</ele>
+        <time>2017-04-11T20:31:30Z</time>
+        <name>2Dxyz38</name>
+    </wpt>
+    <wpt lat="42.5091667175293" lon="-112.7549999952316">
+        <ele>1708.100</ele>
+        <time>2017-04-11T20:32:31Z</time>
+        <name>2Dxyz44</name>
+    </wpt>
+    <wpt lat="42.5055555105209" lon="-112.7605555057526">
+        <ele>1673.660</ele>
+        <time>2017-04-11T20:32:46Z</time>
+        <name>2Dxyz45</name>
+    </wpt>
+    <wpt lat="42.4933333396912" lon="-112.7863888740540">
+        <ele>1615.440</ele>
+        <time>2017-04-11T20:33:29Z</time>
+        <name>2Dxyz47</name>
+    </wpt>
+    <wpt lat="42.5044444799423" lon="-112.8400000333786">
+        <ele>1472.800</ele>
+        <time>2017-04-11T20:33:40Z</time>
+        <name>2Dxyz48</name>
+    </wpt>
+    <wpt lat="42.4313888549805" lon="-112.9786111116409">
+        <ele>2132.690</ele>
+        <time>2017-04-11T20:35:11Z</time>
+        <name>2Dxyz54</name>
+    </wpt>
+    <wpt lat="42.4208333492279" lon="-112.9802777767181">
+        <ele>2040.640</ele>
+        <time>2017-04-11T20:35:39Z</time>
+        <name>2Dxyz55</name>
+    </wpt>
+    <wpt lat="42.4450000524521" lon="-113.0055555105209">
+        <ele>1903.480</ele>
+        <time>2017-04-11T20:36:39Z</time>
+        <name>2Dxyz58</name>
+    </wpt>
+    <wpt lat="42.5063889026642" lon="-113.0191667079926">
+        <ele>1813.260</ele>
+        <time>2017-04-11T20:37:51Z</time>
+        <name>2Dxyz60</name>
+    </wpt>
+    <wpt lat="42.5202777385712" lon="-113.0152777433395">
+        <ele>1742.240</ele>
+        <time>2017-04-11T20:38:22Z</time>
+        <name>2Dxyz62</name>
+    </wpt>
+    <wpt lat="42.5241667032242" lon="-113.0294444561005">
+        <ele>1822.100</ele>
+        <time>2017-04-11T20:39:12Z</time>
+        <name>2Dxyz63</name>
+    </wpt>
+    <wpt lat="42.6594444513321" lon="-112.9924999475479">
+        <ele>1336.860</ele>
+        <time>2017-04-11T20:41:09Z</time>
+        <name>2Dxyz68</name>
+    </wpt>
+    <wpt lat="42.7858333587646" lon="-112.8591666221619">
+        <ele>1335.940</ele>
+        <time>2017-04-11T20:43:45Z</time>
+        <name>2Dxyz76</name>
+    </wpt>
+    <wpt lat="42.7327778339386" lon="-112.9450000524521">
+        <ele>1321.310</ele>
+        <time>2017-04-11T21:14:46Z</time>
+        <name>2Dxyz85</name>
+    </wpt>
+    <wpt lat="42.7263889312744" lon="-113.0533332824707">
+        <ele>1342.040</ele>
+        <time>2017-04-11T21:22:16Z</time>
+        <name>2Dxyz126</name>
+    </wpt>
+    <wpt lat="42.7222222089767" lon="-113.0661110877991">
+        <ele>1339.600</ele>
+        <time>2017-04-11T21:23:26Z</time>
+        <name>2Dxyz131</name>
+    </wpt>
+    <wpt lat="42.7172222137451" lon="-112.9249999523163">
+        <ele>1335.940</ele>
+        <time>2017-04-11T20:41:39Z</time>
+        <name>2Dxyz70</name>
+    </wpt>
+    <wpt lat="42.7313889265060" lon="-112.9500000476837">
+        <ele>1326.190</ele>
+        <time>2017-04-11T21:15:18Z</time>
+        <name>2Dxyz87</name>
+    </wpt>
+    <wpt lat="42.7336111068726" lon="-112.9541666507721">
+        <ele>1338.070</ele>
+        <time>2017-04-11T21:15:39Z</time>
+        <name>2Dxyz89</name>
+    </wpt>
+    <wpt lat="42.7327778339386" lon="-112.9605555534363">
+        <ele>1360.630</ele>
+        <time>2017-04-11T21:16:01Z</time>
+        <name>2Dxyz92</name>
+    </wpt>
+    <wpt lat="42.7383333444595" lon="-112.9616667032242">
+        <ele>1366.120</ele>
+        <time>2017-04-11T21:16:25Z</time>
+        <name>2Dxyz94</name>
+    </wpt>
+    <wpt lat="42.7291666269302" lon="-112.9486111402512">
+        <ele>1315.520</ele>
+        <time>2017-04-11T21:15:01Z</time>
+        <name>2Dxyz86</name>
+    </wpt>
+    <wpt lat="42.7333333492279" lon="-112.9491666555405">
+        <ele>1327.410</ele>
+        <time>2017-04-11T21:15:25Z</time>
+        <name>2Dxyz88</name>
+    </wpt>
+    <wpt lat="42.7322221994400" lon="-112.9580554962158">
+        <ele>1354.840</ele>
+        <time>2017-04-11T21:15:53Z</time>
+        <name>2Dxyz91</name>
+    </wpt>
+    <wpt lat="42.7355555295944" lon="-112.9605555534363">
+        <ele>1354.840</ele>
+        <time>2017-04-11T21:16:14Z</time>
+        <name>2Dxyz93</name>
+    </wpt>
+    <wpt lat="42.7233333587646" lon="-113.0644444227219">
+        <ele>1342.040</ele>
+        <time>2017-04-11T21:22:51Z</time>
+        <name>2Dxyz128</name>
+    </wpt>
+    <wpt lat="42.7219444513321" lon="-113.0666667222977">
+        <ele>1325.270</ele>
+        <time>2017-04-12T16:06:49Z</time>
+        <name>2Dxyz132</name>
+    </wpt>
+    <wpt lat="42.7213889360428" lon="-113.0669444799423">
+        <ele>1317.350</ele>
+        <time>2017-04-12T16:07:07Z</time>
+        <name>2Dxyz133</name>
+    </wpt>
+    <wpt lat="42.7191666364670" lon="-113.0691666603088">
+        <ele>1307.900</ele>
+        <time>2017-04-12T16:07:33Z</time>
+        <name>2Dxyz135</name>
+    </wpt>
+    <wpt lat="42.7180556058884" lon="-113.0708333253861">
+        <ele>1312.170</ele>
+        <time>2017-04-12T16:07:48Z</time>
+        <name>2Dxyz136</name>
+    </wpt>
+    <wpt lat="42.7161110639572" lon="-113.0716667175293">
+        <ele>1314.910</ele>
+        <time>2017-04-12T16:07:55Z</time>
+        <name>2Dxyz137</name>
+    </wpt>
+    <wpt lat="42.7144443988800" lon="-113.0727777481079">
+        <ele>1303.940</ele>
+        <time>2017-04-12T16:08:03Z</time>
+        <name>2Dxyz138</name>
+    </wpt>
+    <wpt lat="42.7144443988800" lon="-113.0733333826065">
+        <ele>1310.340</ele>
+        <time>2017-04-12T16:08:10Z</time>
+        <name>2Dxyz139</name>
+    </wpt>
+    <wpt lat="42.7150000333786" lon="-113.0761110782623">
+        <ele>1334.420</ele>
+        <time>2017-04-12T16:08:19Z</time>
+        <name>2Dxyz140</name>
+    </wpt>
+    <wpt lat="42.7097222805023" lon="-113.0852777957916">
+        <ele>1348.440</ele>
+        <time>2017-04-12T16:08:45Z</time>
+        <name>2Dxyz142</name>
+    </wpt>
+    <wpt lat="42.7094444036484" lon="-113.0908333063126">
+        <ele>1345.090</ele>
+        <time>2017-04-12T16:09:02Z</time>
+        <name>2Dxyz143</name>
+    </wpt>
+    <wpt lat="42.7205555438995" lon="-113.0663888454437">
+        <ele>1314.910</ele>
+        <time>2017-04-12T16:07:16Z</time>
+        <name>2Dxyz134</name>
+    </wpt>
+    <wpt lat="42.7144443988800" lon="-113.0794444084168">
+        <ele>1345.090</ele>
+        <time>2017-04-12T16:08:29Z</time>
+        <name>2Dxyz141</name>
+    </wpt>
+    <wpt lat="42.7072222232819" lon="-113.1094444990158">
+        <ele>1341.730</ele>
+        <time>2017-04-12T16:37:55Z</time>
+        <name>2Dxyz145</name>
+    </wpt>
+    <wpt lat="42.7086111307144" lon="-113.1122221946716">
+        <ele>1340.820</ele>
+        <time>2017-04-12T16:38:05Z</time>
+        <name>2Dxyz146</name>
+    </wpt>
+    <wpt lat="42.7111110687256" lon="-113.1086111068726">
+        <ele>1335.940</ele>
+        <time>2017-04-12T16:38:24Z</time>
+        <name>2Dxyz147</name>
+    </wpt>
+    <wpt lat="42.7166666984558" lon="-113.1105555295944">
+        <ele>1336.860</ele>
+        <time>2017-04-12T16:38:40Z</time>
+        <name>2Dxyz148</name>
+    </wpt>
+    <wpt lat="42.7186111211777" lon="-113.1116666793823">
+        <ele>1346.000</ele>
+        <time>2017-04-12T16:38:51Z</time>
+        <name>2Dxyz149</name>
+    </wpt>
+    <wpt lat="42.7197222709656" lon="-113.1127778291702">
+        <ele>1347.830</ele>
+        <time>2017-04-12T16:38:58Z</time>
+        <name>2Dxyz150</name>
+    </wpt>
+    <wpt lat="42.7208333015442" lon="-113.1122221946716">
+        <ele>1346.910</ele>
+        <time>2017-04-12T16:39:06Z</time>
+        <name>2Dxyz151</name>
+    </wpt>
+    <wpt lat="42.7552777528763" lon="-113.0622222423554">
+        <ele>1365.510</ele>
+        <time>2017-04-12T16:47:11Z</time>
+        <name>2Dxyz159</name>
+    </wpt>
+    <wpt lat="42.8630555868149" lon="-113.0622222423554">
+        <ele>1428.910</ele>
+        <time>2017-04-12T16:47:33Z</time>
+        <name>2Dxyz160</name>
+    </wpt>
+    <wpt lat="42.8633333444595" lon="-113.0669444799423">
+        <ele>1436.830</ele>
+        <time>2017-04-12T16:47:44Z</time>
+        <name>2Dxyz161</name>
+    </wpt>
+    <wpt lat="42.9066666364670" lon="-113.0669444799423">
+        <ele>1445.970</ele>
+        <time>2017-04-12T16:47:59Z</time>
+        <name>2Dxyz162</name>
+    </wpt>
+    <wpt lat="42.9066666364670" lon="-113.1063889265060">
+        <ele>1463.960</ele>
+        <time>2017-04-12T16:48:16Z</time>
+        <name>2Dxyz163</name>
+    </wpt>
+    <wpt lat="42.9199999570847" lon="-113.1077778339386">
+        <ele>1467.610</ele>
+        <time>2017-04-12T16:48:36Z</time>
+        <name>2Dxyz164</name>
+    </wpt>
+    <wpt lat="42.9211111068726" lon="-113.0674999952316">
+        <ele>1452.070</ele>
+        <time>2017-04-12T16:48:50Z</time>
+        <name>2Dxyz165</name>
+    </wpt>
+    <wpt lat="42.9366666078568" lon="-113.0700000524521">
+        <ele>1463.960</ele>
+        <time>2017-04-12T16:49:03Z</time>
+        <name>2Dxyz166</name>
+    </wpt>
+    <wpt lat="42.9505555629730" lon="-113.0861110687256">
+        <ele>1481.640</ele>
+        <time>2017-04-12T16:49:23Z</time>
+        <name>2Dxyz167</name>
+    </wpt>
+    <wpt lat="42.9574999809265" lon="-113.0883333683014">
+        <ele>1481.640</ele>
+        <time>2017-04-12T16:49:40Z</time>
+        <name>2Dxyz168</name>
+    </wpt>
+    <wpt lat="42.9727777242661" lon="-113.1024999618530">
+        <ele>1514.550</ele>
+        <time>2017-04-12T16:49:51Z</time>
+        <name>2Dxyz169</name>
+    </wpt>
+    <wpt lat="42.9905555248261" lon="-113.1094444990158">
+        <ele>1544.120</ele>
+        <time>2017-04-12T16:50:01Z</time>
+        <name>2Dxyz170</name>
+    </wpt>
+    <wpt lat="42.7247222661972" lon="-113.0638889074326">
+        <ele>1338.070</ele>
+        <time>2017-04-11T21:22:30Z</time>
+        <name>2Dxyz127</name>
+    </wpt>
+    <wpt lat="42.7222222089767" lon="-113.0650000572205">
+        <ele>1341.730</ele>
+        <time>2017-04-11T21:23:05Z</time>
+        <name>2Dxyz129</name>
+    </wpt>
+    <wpt lat="42.7219444513321" lon="-113.0658333301544">
+        <ele>1339.290</ele>
+        <time>2017-04-11T21:23:18Z</time>
+        <name>2Dxyz130</name>
+    </wpt>
+    <wpt lat="42.7224999666214" lon="-113.1124999523163">
+        <ele>1348.130</ele>
+        <time>2017-04-12T16:45:46Z</time>
+        <name>2Dxyz152</name>
+    </wpt>
+    <wpt lat="42.7238888740540" lon="-113.1111111640930">
+        <ele>1348.130</ele>
+        <time>2017-04-12T16:46:00Z</time>
+        <name>2Dxyz153</name>
+    </wpt>
+    <wpt lat="43.0288889408112" lon="-113.1019444465637">
+        <ele>1573.080</ele>
+        <time>2017-04-12T19:43:05Z</time>
+        <name>2Dxyz172</name>
+    </wpt>
+    <wpt lat="43.0502778291702" lon="-113.1052777767181">
+        <ele>1598.070</ele>
+        <time>2017-04-12T19:43:33Z</time>
+        <name>2Dxyz173</name>
+    </wpt>
+    <wpt lat="43.0716667175293" lon="-113.1058332920075">
+        <ele>1555.090</ele>
+        <time>2017-04-12T19:43:57Z</time>
+        <name>2Dxyz174</name>
+    </wpt>
+    <wpt lat="43.1219444274902" lon="-113.0941666364670">
+        <ele>1578.870</ele>
+        <time>2017-04-12T19:45:05Z</time>
+        <name>2Dxyz176</name>
+    </wpt>
+    <wpt lat="43.1288888454437" lon="-113.0944443941116">
+        <ele>1589.230</ele>
+        <time>2017-04-12T19:45:20Z</time>
+        <name>2Dxyz177</name>
+    </wpt>
+    <wpt lat="43.1413888931274" lon="-113.0800000429153">
+        <ele>1590.140</ele>
+        <time>2017-04-12T19:45:33Z</time>
+        <name>2Dxyz178</name>
+    </wpt>
+    <wpt lat="43.1825000047684" lon="-113.0669444799423">
+        <ele>1578.870</ele>
+        <time>2017-04-12T19:46:48Z</time>
+        <name>2Dxyz181</name>
+    </wpt>
+    <wpt lat="43.1894444227219" lon="-113.0666667222977">
+        <ele>1573.990</ele>
+        <time>2017-04-12T19:47:05Z</time>
+        <name>2Dxyz182</name>
+    </wpt>
+    <wpt lat="43.1891666650772" lon="-113.0444444417954">
+        <ele>1562.100</ele>
+        <time>2017-04-12T19:47:23Z</time>
+        <name>2Dxyz183</name>
+    </wpt>
+    <wpt lat="43.2008333206177" lon="-113.0616666078568">
+        <ele>1573.080</ele>
+        <time>2017-04-12T19:47:35Z</time>
+        <name>2Dxyz184</name>
+    </wpt>
+    <wpt lat="43.2694444656372" lon="-113.0125000476837">
+        <ele>1607.520</ele>
+        <time>2017-04-12T19:48:42Z</time>
+        <name>2Dxyz187</name>
+    </wpt>
+    <wpt lat="43.3141666650772" lon="-112.9802777767181">
+        <ele>1641.960</ele>
+        <time>2017-04-12T19:50:49Z</time>
+        <name>2Dxyz189</name>
+    </wpt>
+    <wpt lat="43.3224999904633" lon="-113.0041667222977">
+        <ele>1658.420</ele>
+        <time>2017-04-12T19:50:58Z</time>
+        <name>2Dxyz190</name>
+    </wpt>
+    <wpt lat="43.3308333158493" lon="-113.0113888978958">
+        <ele>1646.530</ele>
+        <time>2017-04-12T19:51:18Z</time>
+        <name>2Dxyz191</name>
+    </wpt>
+    <wpt lat="43.3530555963516" lon="-113.0272222757340">
+        <ele>1602.030</ele>
+        <time>2017-04-12T19:51:45Z</time>
+        <name>2Dxyz192</name>
+    </wpt>
+    <wpt lat="43.3644444942474" lon="-113.0419445037842">
+        <ele>1591.970</ele>
+        <time>2017-04-12T19:52:06Z</time>
+        <name>2Dxyz193</name>
+    </wpt>
+    <wpt lat="43.3794444799423" lon="-113.0497221946716">
+        <ele>1584.050</ele>
+        <time>2017-04-12T19:52:28Z</time>
+        <name>2Dxyz194</name>
+    </wpt>
+    <wpt lat="43.4277777671814" lon="-113.0572222471237">
+        <ele>1552.650</ele>
+        <time>2017-04-12T19:52:48Z</time>
+        <name>2Dxyz195</name>
+    </wpt>
+    <wpt lat="43.3963888883591" lon="-113.0219444036484">
+        <ele>2295.450</ele>
+        <time>2017-04-12T19:53:02Z</time>
+        <name>2Dxyz196</name>
+    </wpt>
+    <wpt lat="43.4283332824707" lon="-113.0650000572205">
+        <ele>1542.900</ele>
+        <time>2017-04-12T20:18:02Z</time>
+        <name>2Dxyz197</name>
+    </wpt>
+    <wpt lat="43.4347221851349" lon="-113.0902777910233">
+        <ele>1537.110</ele>
+        <time>2017-04-12T20:18:34Z</time>
+        <name>2Dxyz198</name>
+    </wpt>
+    <wpt lat="43.4355555772781" lon="-113.1169444322586">
+        <ele>1556.010</ele>
+        <time>2017-04-12T20:18:52Z</time>
+        <name>2Dxyz199</name>
+    </wpt>
+    <wpt lat="43.4261111021042" lon="-113.1636110544205">
+        <ele>1587.710</ele>
+        <time>2017-04-12T20:21:46Z</time>
+        <name>2Dxyz200</name>
+    </wpt>
+    <wpt lat="43.4283332824707" lon="-113.1763888597488">
+        <ele>1595.020</ele>
+        <time>2017-04-12T20:22:06Z</time>
+        <name>2Dxyz201</name>
+    </wpt>
+    <wpt lat="43.4299999475479" lon="-113.2208333015442">
+        <ele>1652.930</ele>
+        <time>2017-04-12T20:22:24Z</time>
+        <name>2Dxyz202</name>
+    </wpt>
+    <wpt lat="43.4363888502121" lon="-113.2244443893433">
+        <ele>1652.930</ele>
+        <time>2017-04-12T20:22:46Z</time>
+        <name>2Dxyz203</name>
+    </wpt>
+    <wpt lat="43.4613889455795" lon="-113.2405555248261">
+        <ele>1650.800</ele>
+        <time>2017-04-12T20:23:17Z</time>
+        <name>2Dxyz205</name>
+    </wpt>
+    <wpt lat="43.5086110830307" lon="-113.2725000381470">
+        <ele>1646.840</ele>
+        <time>2017-04-12T20:23:42Z</time>
+        <name>2Dxyz206</name>
+    </wpt>
+    <wpt lat="43.5463888645172" lon="-113.3161110877991">
+        <ele>1620.930</ele>
+        <time>2017-04-12T20:24:09Z</time>
+        <name>2Dxyz207</name>
+    </wpt>
+    <wpt lat="43.6119444370270" lon="-113.3163888454437">
+        <ele>1617.270</ele>
+        <time>2017-04-12T20:24:28Z</time>
+        <name>2Dxyz208</name>
+    </wpt>
+    <wpt lat="43.6366666555405" lon="-113.2999999523163">
+        <ele>1623.980</ele>
+        <time>2017-04-12T20:24:44Z</time>
+        <name>2Dxyz209</name>
+    </wpt>
+    <wpt lat="43.1613888740540" lon="-113.0711110830307">
+        <ele>1580.700</ele>
+        <time>2017-04-12T19:46:04Z</time>
+        <name>2Dxyz179</name>
+    </wpt>
+    <wpt lat="43.2849999666214" lon="-112.9997222423554">
+        <ele>1646.840</ele>
+        <time>2017-04-12T19:49:05Z</time>
+        <name>2Dxyz188</name>
+    </wpt>
+    <wpt lat="42.6474666595459" lon="-112.3328499794006">
+        <ele>2310.390</ele>
+        <time>2017-04-13T17:29:14Z</time>
+        <name>2C5</name>
+    </wpt>
+    <wpt lat="42.8265999555588" lon="-112.4187166690826">
+        <ele>1362.460</ele>
+        <time>2017-04-10T22:00:20Z</time>
+        <name>2D0</name>
+    </wpt>
+    <wpt lat="42.6639330387115" lon="-112.3363370895386">
+        <ele>2434.440</ele>
+        <time>2017-04-13T17:27:56Z</time>
+        <name>2C0</name>
+    </wpt>
+    <wpt lat="42.6815832853317" lon="-112.3173500299454">
+        <ele>1868.120</ele>
+        <time>2017-04-13T17:28:00Z</time>
+        <name>2C1</name>
+    </wpt>
+    <wpt lat="42.6869676113129" lon="-112.2826665639877">
+        <ele>1646.230</ele>
+        <time>2017-04-13T17:28:25Z</time>
+        <name>2C2</name>
+    </wpt>
+    <wpt lat="42.6484497785568" lon="-112.2901728153229">
+        <ele>1769.980</ele>
+        <time>2017-04-13T17:28:56Z</time>
+        <name>2C4</name>
+    </wpt>
+    <wpt lat="42.6543312072754" lon="-112.2862788438797">
+        <ele>1679.450</ele>
+        <time>2017-04-13T17:28:49Z</time>
+        <name>2C3</name>
+    </wpt>
+    <wpt lat="42.7088888883591" lon="-113.0933333635330">
+        <ele>1345.090</ele>
+        <time>2017-04-12T16:37:43Z</time>
+        <name>2Dxyz144</name>
+    </wpt>
+    <wpt lat="42.7305555343628" lon="-113.0747221708298">
+        <ele>1349.660</ele>
+        <time>2017-04-12T16:46:22Z</time>
+        <name>2Dxyz154</name>
+    </wpt>
+    <wpt lat="43.1108332872391" lon="-113.0908333063126">
+        <ele>1573.080</ele>
+        <time>2017-04-12T19:44:26Z</time>
+        <name>2Dxyz175</name>
+    </wpt>
+    <wpt lat="43.1722222566605" lon="-113.0680555105209">
+        <ele>1581.000</ele>
+        <time>2017-04-12T19:46:23Z</time>
+        <name>2Dxyz180</name>
+    </wpt>
+    <wpt lat="43.2347222566605" lon="-113.0325000286102">
+        <ele>1574.900</ele>
+        <time>2017-04-12T19:47:51Z</time>
+        <name>2Dxyz185</name>
+    </wpt>
+    <wpt lat="43.2344444990158" lon="-113.0263888835907">
+        <ele>1574.300</ele>
+        <time>2017-04-12T19:48:02Z</time>
+        <name>2Dxyz186</name>
+    </wpt>
+    <wpt lat="43.4500000476837" lon="-113.2313889265060">
+        <ele>1647.140</ele>
+        <time>2017-04-12T20:23:01Z</time>
+        <name>2Dxyz204</name>
+    </wpt>
+    <wpt lat="42.7927777767181" lon="-112.4327777624130">
+        <ele>1587.400</ele>
+        <time>2017-04-10T22:01:03Z</time>
+        <name>2Dxyz1</name>
+    </wpt>
+    <wpt lat="42.7413889169693" lon="-112.3955554962158">
+        <ele>1536.500</ele>
+        <time>2017-04-11T17:45:48Z</time>
+        <name>2Dxyz9</name>
+    </wpt>
+    <wpt lat="42.6563888788223" lon="-112.3394443988800">
+        <ele>2346.360</ele>
+        <time>2017-04-11T19:49:25Z</time>
+        <name>2Dxyz18</name>
+    </wpt>
+    <wpt lat="42.5305556058884" lon="-112.7041666507721">
+        <ele>2290.270</ele>
+        <time>2017-12-29T17:30:48Z</time>
+        <name>2Dxyz39</name>
+    </wpt>
+    <wpt lat="42.8105555772781" lon="-112.3966666460037">
+        <ele>1383.790</ele>
+        <time>2017-04-10T22:00:28Z</time>
+        <name>2Dxyz0</name>
+    </wpt>
+    <wpt lat="42.5466666221619" lon="-112.6050000190735">
+        <ele>1628.850</ele>
+        <time>2017-04-11T20:23:59Z</time>
+        <name>2Dxyz31</name>
+    </wpt>
+    <wpt lat="42.5191667079926" lon="-112.7066667079926">
+        <ele>2301.240</ele>
+        <time>2017-04-11T20:31:45Z</time>
+        <name>2Dxyz41</name>
+    </wpt>
+    <wpt lat="42.5216666460037" lon="-112.7111110687256">
+        <ele>2159.510</ele>
+        <time>2017-04-11T20:31:58Z</time>
+        <name>2Dxyz42</name>
+    </wpt>
+    <wpt lat="42.4377777576447" lon="-112.9924999475479">
+        <ele>1979.980</ele>
+        <time>2017-04-11T20:36:23Z</time>
+        <name>2Dxyz57</name>
+    </wpt>
+    <wpt lat="42.7769443988800" lon="-112.8863888978958">
+        <ele>1341.120</ele>
+        <time>2017-04-11T20:44:09Z</time>
+        <name>2Dxyz78</name>
+    </wpt>
+    <wpt lat="42.7336111068726" lon="-112.9563888311386">
+        <ele>1348.130</ele>
+        <time>2017-04-11T21:15:47Z</time>
+        <name>2Dxyz90</name>
+    </wpt>
+    <wpt lat="43.0147222280502" lon="-113.1008332967758">
+        <ele>1553.870</ele>
+        <time>2017-04-12T19:42:24Z</time>
+        <name>2Dxyz171</name>
+    </wpt>
+    <wpt lat="42.5181865692139" lon="-112.7059826850891">
+        <ele>2318.620</ele>
+        <time>2019-02-05T21:46:27Z</time>
+        <name>2Dxyz40</name>
+    </wpt>
+    <wpt lat="42.7379602193832" lon="-112.9631295204163">
+        <ele>1367.030</ele>
+        <time>2017-04-11T21:16:36Z</time>
+        <name>2Dxyz95</name>
+    </wpt>
+    <wpt lat="42.7322173118591" lon="-112.9638944864273">
+        <ele>1356.970</ele>
+        <time>2017-04-11T21:16:42Z</time>
+        <name>2Dxyz96</name>
+    </wpt>
+    <wpt lat="42.7377402782440" lon="-112.9681849479675">
+        <ele>1367.030</ele>
+        <time>2017-04-11T21:16:54Z</time>
+        <name>2Dxyz97</name>
+    </wpt>
+    <wpt lat="42.7375692129135" lon="-112.9708789587021">
+        <ele>1366.120</ele>
+        <time>2017-04-11T21:17:02Z</time>
+        <name>2Dxyz98</name>
+    </wpt>
+    <wpt lat="42.7366405725479" lon="-112.9765995740891">
+        <ele>1364.900</ele>
+        <time>2017-04-11T21:17:12Z</time>
+        <name>2Dxyz99</name>
+    </wpt>
+    <wpt lat="42.7360540628433" lon="-112.9808235168457">
+        <ele>1353.010</ele>
+        <time>2017-04-11T21:17:20Z</time>
+        <name>2Dxyz100</name>
+    </wpt>
+    <wpt lat="42.7312899827957" lon="-113.0165799856186">
+        <ele>1354.530</ele>
+        <time>2017-04-11T21:17:57Z</time>
+        <name>2Dxyz125</name>
+    </wpt>
+    <wpt lat="42.7377647161484" lon="-113.0759121179581">
+        <ele>1356.970</ele>
+        <time>2017-04-12T16:46:33Z</time>
+        <name>2Dxyz155</name>
+    </wpt>
+    <wpt lat="42.7404528856277" lon="-113.0620429515839">
+        <ele>1360.020</ele>
+        <time>2017-04-12T16:46:44Z</time>
+        <name>2Dxyz156</name>
+    </wpt>
+    <wpt lat="42.7492749691010" lon="-113.0621094703674">
+        <ele>1365.510</ele>
+        <time>2017-04-12T16:47:00Z</time>
+        <name>2Dxyz158</name>
+    </wpt>
+    <wpt lat="42.7448761463165" lon="-113.0619431734085">
+        <ele>1362.460</ele>
+        <time>2017-04-12T16:46:52Z</time>
+        <name>2Dxyz157</name>
+    </wpt>
+</gpx>
